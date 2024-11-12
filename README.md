@@ -5,8 +5,11 @@ Repositório da 2º prova de DW2
 Criar um sistema para controle de vagas que seja capaz de realizar todas as funções básicas de um CRUD.
 
 <h2>Credenciais</h2>
-Usuario = estagio
-Senha = estagio
+<p>
+  Usuario = estagio
+  Senha = estagio
+</p>
+
 <h2>Funções</h2>
 
 - [x] Realizar login
