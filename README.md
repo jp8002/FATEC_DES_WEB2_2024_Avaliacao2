@@ -22,3 +22,17 @@ Criar um sistema para controle de vagas que seja capaz de realizar todas as fun√
 <img src="./use_case.png">
 
 <h2>Telas</h2>
+<h3>Login</h3>
+<img src="./imagens/login.jpeg">
+
+<h3>Menu</h3>
+<img src="./imagens/menu.jpeg">
+
+<h3>Cadastrar</h3>
+<img src="./imagens/cadastrar.jpeg">
+
+<h3>Remover</h3>
+<img src="./imagens/remover.jpeg">
+
+<h3>Listar</h3>
+<img src="./imagens/listar.jpeg">
